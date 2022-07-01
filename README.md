@@ -33,9 +33,9 @@ rspec ./spec/nome_do_seu_arquivo_spec.rb
 ## Primeiros passos
 Conhecendo os elementos necessários para criar um teste
 
-(Acesso a documentação)[http://rspec.info]
+[Acesso a documentação](http://rspec.info)
 
-(Dicas e referências)[http://www.betterspecs.org.br]
+[Dicas e referências](http://www.betterspecs.org.br)
 
 #### describe
 Podemos passar uma descrição ou o nome da Classe a ser utilizada.
